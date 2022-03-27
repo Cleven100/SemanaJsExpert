@@ -1,0 +1,25 @@
+{
+  "name": "semanajsexpert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS='--experimental-vm-modules' jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleven100/SemanaJsExpert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cleven100/SemanaJsExpert/issues"
+  },
+  "homepage": "https://github.com/Cleven100/SemanaJsExpert#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
